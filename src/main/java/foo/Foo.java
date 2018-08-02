@@ -11,5 +11,9 @@ public class Foo {
     	}
         return a / b;  
     }
+    
+    public static int add(int a, int b) throws Exception {
+    	return a + b;  
+    }
 
 }
