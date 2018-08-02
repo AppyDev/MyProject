@@ -13,7 +13,7 @@ public class Foo {
     }
     
     public static int add(int a, int b) throws Exception {
-    	return a + b;  
+    	return a + b;   
     }
 
 }
